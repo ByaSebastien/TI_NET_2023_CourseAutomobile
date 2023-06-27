@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI_NET_2023_CourseAutomobile", "TI_NET_2023_CourseAutomobile\TI_NET_2023_CourseAutomobile.csproj", "{B7498E68-C58F-4784-96A4-C61B6ECF66BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7498E68-C58F-4784-96A4-C61B6ECF66BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7498E68-C58F-4784-96A4-C61B6ECF66BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7498E68-C58F-4784-96A4-C61B6ECF66BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7498E68-C58F-4784-96A4-C61B6ECF66BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B71E5016-1FBA-4695-825F-74D979AEDA63}
+	EndGlobalSection
+EndGlobal
